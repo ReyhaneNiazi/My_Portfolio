@@ -8,7 +8,9 @@
 
 ## Overview
 
-This repository hosts my personal developer portfolio, designed to highlight selected web development projects, technical toolkit, and professional experience. The design emphasizes clean typography, balanced contrast, and accessible UI interactions without heavy external dependencies.
+This repository contains my personal developer portfolio, showcasing selected web development projects, technical skills, and professional experience.
+The portfolio is designed with a focus on clean typography, modern aesthetics, balanced visual contrast, and accessible user interactions. It aims to provide a simple and engaging experience while highlighting my development journey, technical expertise, and the projects I have worked on.
+
 
 ## Key Features
 
